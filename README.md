@@ -23,8 +23,9 @@
 *9.Customer can logout.
 
 # Team Members Associated With The Project
-* Payal Bhosale
+* Jay Yadav
 * Aakash Kasera
-* Jai Yadav
+* Payal Bhosale
 * SaiKiran Reddy 
+* 
 
