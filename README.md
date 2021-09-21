@@ -1,7 +1,7 @@
 # Revature-UPI-System
 *RevatureProject2 
 
-#Revature UPI System (User Stories):
+# Revature UPI System (User Stories):
 
 *1.Sign up.
 
@@ -22,7 +22,7 @@
 
 *9.Customer can logout.
 
-#Team Members Associated With The Project
+# Team Members Associated With The Project
 * Payal Bhosale
 * Aakash Kasera
 * Jai Yadav
