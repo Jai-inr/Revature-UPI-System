@@ -1,4 +1,4 @@
-# RevPay-UPI-System (Team-10)
+# RevPay-UPI-System 
 
 # Project Description
 
