@@ -1,5 +1,10 @@
 # Revature-UPI-System (Team-10)
-*RevatureProject2 
+RevPay is a money transfer app that allows you to transfer money from one registered user to another easily with a single click.
+With this feature, our day-to-day problem will be easily rectified of carrying money everywhere and what we need is our phone to send the money to anyone. Not only this we can also easily keep the track of our transaction and history which will not bother us that to whom we have given our money or from where we get.
+Apart from this one can also link their bank account with their revpay wallet and can check balance and add money to it.
+And also can send money to the bank directly.
+Here one can log in, log out and can view their own profile and update whatever he/she wants.
+
 
 # Revature UPI System (User Stories):
 
